@@ -1,0 +1,1 @@
+rootProject.name = "gabriel.github.io.ktor-jwt-auth"
